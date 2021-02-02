@@ -19,6 +19,7 @@ const slideImages = [
 ];
 
 const properties = {
+  duration: 60000,
   transitionDuration: 600,
   infinite: true,
   indicators: true,
